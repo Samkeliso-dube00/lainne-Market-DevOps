@@ -24,8 +24,6 @@ cloud-native-platform/
 │   ├── prometheus/               # Metrics collection and monitoring
 │   └── grafana/                  # Dashboards and visualization
 │
-├── ci-cd/                        # Continuous integration and deployment
-│
 ├── scripts/                      # Automation and maintenance scripts
 │
 ├── tests/                        # Automated tests

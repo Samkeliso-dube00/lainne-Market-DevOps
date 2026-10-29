@@ -1,7 +1,7 @@
 
-# 🛍️ Lainne Market — Local Setup Guide
+# 🛍️ Lainne Market : Local Setup Guide
 
-This guide explains how to install, run, and test Lainne Market on your local machine.Get Lainne Market running on your machine in minutes.
+This guide explains how to install, run, and test Lainne Market on your local machine.
 
 ## 📋 Table of Contents
 
@@ -44,11 +44,10 @@ git --version
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Samkeliso-dube00/lainne-Market-DevOps.git
 cd lainne-market
 ```
 
-Replace `<repository-url>` with your actual repository URL.
 
 ### Navigate to the frontend
 
@@ -170,8 +169,6 @@ Open the URL displayed in the terminal to test the production version locally.
 **Included:** React frontend, Vite development server, product interface, shopping cart, and production build.
 
 **Not included:** Backend integration, database, authentication, Docker, or cloud deployment.
-
-These can be documented separately as the project develops.
 
 ---
 
